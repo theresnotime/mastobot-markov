@@ -16,7 +16,7 @@
     "mastodon-api": "1.3.0",
     "sbd": "1.0.12",
     "underscore.string": "3.3.4",
-    "merge-options": "1.0.0",
+    "merge-options": "3.0.4",
     "mastodon-api-token": "git+https://github.com/kurokonomiyaki/mastodon-api-token.git"
   },
   "devDependencies": {
